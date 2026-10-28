@@ -1,0 +1,6 @@
+Feature,KS_Statistic,p_value,Drift_Detected
+ambient_temperature,0.7978,0.0,True
+humidity,0.0514,4e-06,True
+solar_irradiance,0.419,0.0,True
+grid_voltage,0.2236,0.0,True
+power_load_mw,0.9866,0.0,True
